@@ -1,0 +1,6 @@
+l=int(raw_input("Enter The Length"))
+b=int(raw_input("Enter The Breadth"))
+p=(2*(l*b))
+print("Perimeter Is :",p)
+a=(l*b)
+print("Area Is :",a)
